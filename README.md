@@ -12,4 +12,4 @@ I'm proficient in Python and C# and have experience with Blazor framework, HTML/
 
 My current goal is to learn React.js and/or Node.js and further my web development skills.
 
-[![Resume](https://github.com/Franco-Aparicio/Franco-Aparicio/raw/main/resume.png)](https://github.com/Franco-Aparicio/Franco-Aparicio/raw/main/Franco_Aparicio_Resume.pdf)
+[![Resume](https://raw.github.com/Franco-Aparicio/Franco-Aparicio/main/resume.png)](https://raw.github.com/Franco-Aparicio/Franco-Aparicio/main/Franco_Aparicio_Resume.pdf)
