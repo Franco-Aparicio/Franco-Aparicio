@@ -17,4 +17,4 @@ I aim to learn more about operating systems, assembly languages, and cybersecuri
 
 ---
 
-[![Resume](https://raw.githubusercontent.com/Franco-Aparicio/Franco-Aparicio/main/resume.png)](https://raw.githubusercontent.com/Franco-Aparicio/Franco-Aparicio/main/Franco_Aparicio_Resume.pdf)
+[![Resume](https://raw.githubusercontent.com/Franco-Aparicio/Franco-Aparicio/refs/heads/main/resume.png)](https://raw.githubusercontent.com/Franco-Aparicio/Franco-Aparicio/main/Franco_Aparicio_Resume.pdf)
